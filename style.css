@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #00ccff 50%, #6bc1fe 100%);
+}
+li{
+    list-style-type: none;
+}
+.box{
+    margin-top: 170px !important;
+}
+input,label{
+    margin: 10px;
+    font-size: large;
+}
