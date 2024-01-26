@@ -4,7 +4,7 @@ var quizdata =[
         a : ".net",
         b : "flask",
         c : "django",
-        d : "React",
+        d : "Angular",
         correct : "d"
     },
     {
@@ -28,7 +28,7 @@ var quizdata =[
         a : "C++",
         b : "angular",
         c : "django",
-        d : "React",
+        d : "Express",
         correct : "a"
     },
     {
