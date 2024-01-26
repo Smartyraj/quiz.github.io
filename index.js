@@ -3,9 +3,9 @@ var quizdata =[
         question : "Which framework is related to JS?",
         a : ".net",
         b : "flask",
-        c : "django",
-        d : "Angular",
-        correct : "d"
+        c : "Angular",
+        d : "django",
+        correct : "c"
     },
     {
         question : "Which of the following keywords is used to define a variable in Javascript?",
